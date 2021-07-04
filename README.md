@@ -35,3 +35,4 @@ Average PSNR:
 # Evaluation of test results for Jpeg Compression :
 Average PSNR: 
 
+All other supporting resources are located in this temporary G drive : https://drive.google.com/drive/folders/1TrSTo04FAsOLXYMVI5kfMyx2ZcvctYGo?usp=sharing
